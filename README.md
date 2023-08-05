@@ -14,11 +14,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-vilchez&show_icons=true&locale=en&layout=compact" alt="jose-vilchez" /></p>
 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jose-vilchez)
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vilchez)
 
-![Seguidores de GitHub](https://img.shields.io/github/followers/TU_NOMBRE_DE_USUARIO?style=social)
+![Seguidores de GitHub](https://img.shields.io/github/followers/jose-vilchez?style=social)
 
-![Repositorios de GitHub](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTU_NOMBRE_DE_USUARIO)
+![Repositorios de GitHub](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjose-vilchez)
 
