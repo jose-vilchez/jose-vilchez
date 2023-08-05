@@ -18,7 +18,7 @@
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vilchez)
 
-![Seguidores de GitHub](https://img.shields.io/github/followers/jose-vilchez?style=social)
-
 ![Repositorios de GitHub](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjose-vilchez)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-vilchez&show_icons=true)
 
