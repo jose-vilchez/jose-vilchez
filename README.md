@@ -29,7 +29,7 @@
 
 <h1 align="center"></h1>
 
-
-[ISTQB® - CTFL v4.0](https://www.credly.com/badges/68b459fe-c925-416f-ab26-693260e47320)
+<h3 align="left">ISTQB® Certified Tester</h3>
+[badge Foundation Level v4.0](https://www.credly.com/badges/68b459fe-c925-416f-ab26-693260e47320)
 
 
