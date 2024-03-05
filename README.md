@@ -25,6 +25,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=jose-vilchez&color=brightgreen) 
+![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=brightgreen&style=for-the-badge)
 
 
-![Badge 1](https://komarev.com/ghpvc/?username=your-github-username&color=green) ![Badge 2](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
