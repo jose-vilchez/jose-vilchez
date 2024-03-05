@@ -27,6 +27,3 @@
 
 ![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=brightgreen&style=for-the-badge)
 
-<span style="font-size: larger;">![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=brightgreen&style=for-the-badge&style=plastic)</span>
-
-![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=brightgreen&style=for-the-badge&style=plastic)
