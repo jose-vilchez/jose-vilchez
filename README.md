@@ -27,10 +27,19 @@
 
 ![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
+ ____________________________  ____________________________
+|                            |                            |
+|  ![Repositorios de GitHub](https://img.shields.io/badge/dynamic/json?color=blue&label=PUBLIC+REPOSITORIES&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjose-vilchez)                          |                            |
+|                            |           ![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=blue&style=for-the-badge&label=PROFILE+VIEWS)                 |
+|                            |                            |
+|____________________________|____________________________|
+
+
 <h1 align="center"></h1>
 
 <h3 align="left">ISTQB® Certified Tester: </h3>
 
 [Badge Foundation Level v4.0](https://www.credly.com/badges/68b459fe-c925-416f-ab26-693260e47320)
+
 
 
