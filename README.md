@@ -19,7 +19,7 @@
 <h3 align="left">Other:</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-<a href="https://www.docker.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"alt="postgresql" width="40" height="40"/>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"alt="postgresql" width="40" height="40"/>
 </a>
 <h1 align="center"></h1>
 
