@@ -24,7 +24,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=jose-vilchez&color=brightgreen)
+<h3 ![](https://komarev.com/ghpvc/?username=jose-vilchez&color=brightgreen) </h3>
 
 
 
