@@ -25,7 +25,7 @@
 
 ![Repositorios de GitHub](https://img.shields.io/badge/dynamic/json?color=blue&label=REPOSITORIES&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjose-vilchez)
 
-![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=blue&style=for-the-badge&label=𝐏𝐑𝐎𝐅𝐈𝐋𝐄+𝐕𝐈𝐄𝐖𝐒)
 
 <h1 align="center"></h1>
 
