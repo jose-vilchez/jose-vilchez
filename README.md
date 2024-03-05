@@ -20,7 +20,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"alt="postgresql" width="40" height="40"/>
 
-![Repositorios de GitHub](https://img.shields.io/badge/dynamic/json?color=blue&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjose-vilchez)
+![Repositorios de GitHub](https://img.shields.io/badge/dynamic/json?color=blue&label=REPOSITORIES&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjose-vilchez)
 
 
 ![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=brightgreen&style=plastic&label=PROFILE+VIEWS )
