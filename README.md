@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm José Vilchez</h1>
 <h3 align="center">A passionate QA Automation</h3>
-<h3 align="center">Dedicated Web/API/Mobile Functional Automation Testing Specialist. Involved and Automated the User Acceptance Testing (UAT)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
