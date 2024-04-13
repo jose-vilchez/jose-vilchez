@@ -19,7 +19,6 @@
 
 ![Badge](https://komarev.com/ghpvc/?username=jose-vilchez&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
-
 <h1 align="center"></h1>
 
 <h3 align="left">ISTQB® Certified Tester: </h3>
