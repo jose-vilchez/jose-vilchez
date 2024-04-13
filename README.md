@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm José Vilchez</h1>
 <h3 align="center">A passionate QA Automation</h3>
 
-Dedicated Web/API/Mobile Functional Automation Testing Specialist. Involved and Automated the User Acceptance Testing (UAT)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jos%C3%A9-vilchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-vilchez/" height="30" width="40" /></a>
