@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/jos%C3%A9-vilchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-vilchez/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages and Testing:</h3>
+<h3 align="left">Programming Languages - Frameworks and Testing tools :</h3>
 <p align="left">
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
