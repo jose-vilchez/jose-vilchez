@@ -21,7 +21,6 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/folder_type_cypress.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/webdriverio/webdriverio-schematics/blob/HEAD/.github/assets/logo.png" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/a/appium.svg" alt="typescript" width="40" height="40"/> </a>
@@ -30,7 +29,9 @@
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/bitbucket.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/github-copilot.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/cypress-icon.svg" alt="typescript" width="40" height="40"/> </a>
-
+<a target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="typescript" width="40" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/cypress-icon.svg" alt="typescript" width="40" height="40"/> </a>
+  
 </p> 
 
 
