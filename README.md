@@ -28,7 +28,7 @@
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/501c9d05b6660ba5e1a8753b8461e60d7ff1614656102c254ab800e14a6b19fa/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" alt="typescript" width="40" height="40"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Allure_logo.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="typescript" width="40" height="40"/> </a>
 
 </p> 
 
