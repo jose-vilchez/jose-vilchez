@@ -23,6 +23,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/folder_type_cypress.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/webdriverio/webdriverio-schematics/blob/HEAD/.github/assets/logo.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logo/git-icon" alt="typescript" width="40" height="40"/> </a>
   
 </p> 
 
