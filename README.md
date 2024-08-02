@@ -30,7 +30,6 @@
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/github-copilot.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/cypress-icon.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="typescript" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/jira.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Karate_software_logo.svg" alt="typescript" width="40" height="40"/> </a>
 
   
