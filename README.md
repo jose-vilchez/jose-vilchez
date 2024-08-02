@@ -22,7 +22,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/folder_type_cypress.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=webdriverio++LOGO+&sca_esv=9267af3241730e66&sca_upv=1&rlz=1C1CHBF_esPE922PE922&udm=2&biw=1923&bih=833&sxsrf=ADLYWIL0fyWxsqeWrfXlIEBSqsdz4PwXZA%3A1722613408269&ei=oP6sZoSTEO3W5OUPgZWlsAM&ved=0ahUKEwiE46OC09aHAxVtK7kGHYFKCTYQ4dUDCBE&uact=5&oq=webdriverio++LOGO+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEndlYmRyaXZlcmlvICBMT0dPIDIFEAAYgAQyBxAAGIAEGBhI6glQywJYswlwAngAkAEAmAFloAG9BKoBAzQuMrgBA8gBAPgBAvgBAZgCCKAC1gTCAgYQABgIGB6YAwCIBgGSBwM2LjKgB80Y&sclient=gws-wiz-serp#vhid=sx7ZztA4l-ssAM&vssid=mosaic" alt="typescript" width="40" height="40"/> </a>
+<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/webdriverio/webdriverio-schematics/blob/HEAD/.github/assets/logo.png" alt="typescript" width="40" height="40"/> </a>
   
 </p> 
 
