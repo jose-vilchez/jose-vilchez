@@ -28,6 +28,8 @@
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/501c9d05b6660ba5e1a8753b8461e60d7ff1614656102c254ab800e14a6b19fa/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" alt="typescript" width="40" height="40"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/github-copilot.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/cypress-icon.svg" alt="typescript" width="40" height="40"/> </a>
 
 </p> 
 
@@ -35,6 +37,7 @@
 <h3 align="left">Database and others:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/confluence.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/notion-icon.svg" alt="typescript" width="40" height="40"/> </a>
 </p> 
 
 <h1 align="center"></h1>
