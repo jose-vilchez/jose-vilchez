@@ -15,11 +15,9 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/a/appium.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/cypress-icon.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Karate_software_logo.svg" alt="typescript" width="40" height="40"/> </a>
- 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/webdriverio/webdriverio-schematics/blob/HEAD/.github/assets/logo.png" alt="typescript" width="40" height="40"/> </a>
