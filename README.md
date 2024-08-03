@@ -27,7 +27,6 @@
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="typescript" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/501c9d05b6660ba5e1a8753b8461e60d7ff1614656102c254ab800e14a6b19fa/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/bitbucket.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/github-copilot.svg" alt="typescript" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="typescript" width="40" height="40"/> </a>
